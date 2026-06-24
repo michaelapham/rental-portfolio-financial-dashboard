@@ -59,7 +59,7 @@ Each property has its own data tab. The dashboard aggregates everything using `X
  
 ## 💡 Why I Built This
  
-I manage this portfolio directly as part of a family real estate business. The model was built out of operational necessity — to track whether properties were actually performing against budget, and to identify which units were dragging overall NOI.
+I manage this portfolio directly. The model was built out of operational necessity — to track whether properties were actually performing against budget, and to identify which units were dragging overall NOI.
  
 The skills applied here — financial modeling, variance analysis, data organization, and translating raw transactions into actionable KPIs — map directly to financial operations and client-facing analytical roles in the financial services industry.
  
@@ -80,4 +80,4 @@ The skills applied here — financial modeling, variance analysis, data organiza
  
 Currently building a project portfolio in Excel, MySQL, and Power BI targeting roles in financial services and operations.
  
-🔗 [GitHub Portfolio](https://github.com/michaelapham) | [LinkedIn](https://www.linkedin.com/in/michaelapham)
+🔗 [linkedin.com/in/michaelapham99](https://www.linkedin.com/in/michaelapham99) | [GitHub Portfolio](https://github.com/michaelapham)
