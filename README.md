@@ -21,7 +21,7 @@ This dashboard consolidates everything into one structured Excel workbook — gi
  
 ## 📊 Dashboard Preview
  
-
+![Dashboard Preview](Rental_Dashboard_Screenshot_Preview.png)
  
 ---
  
